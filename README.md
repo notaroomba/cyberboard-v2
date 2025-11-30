@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-A Raspberry Pi Pico-sized STM32 development board with Bluetooth, battery support, IMU, barometer, and current sensing!
+A Raspberry Pi Pico-sized STM32 development board with Bluetooth, battery support, IMU and a barometer!
 </h4>
 
 <div align="center">
