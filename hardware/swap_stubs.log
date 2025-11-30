@@ -1,0 +1,22 @@
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.action_swap_stubs 109:Plugin executed on: 'win32'
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.action_swap_stubs 110:Plugin executed with python version: '3.11.5 (main, Sep 17 2025, 01:04:48) [MSC v.1944 64 bit (AMD64)]'
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.action_swap_stubs 111:KiCad build version: 9.0.6
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.action_swap_stubs 112:Plugin version: 1.0.8
+
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.action_swap_stubs 113:Frame repr: <wx._core.Frame object at 0x000001DEEF0744C0>
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.action_swap_stubs 116:Sch frame repr: None
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 95:Starting swap_stubs
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 102:main sch file is: C:\Users\Nathan\Documents\GitHub\cyberboard-v2\hardware\Cyberboard.kicad_sch
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 103:main pcb file is: C:\Users\Nathan\Documents\GitHub\cyberboard-v2\hardware\Cyberboard.kicad_pcb
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 116:Swaping labels on pads: 38, 40 on fp: U4 connected to: GPIO16, GPIO18
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 123:Schematics file to write: C:\Users\Nathan\Documents\GitHub\cyberboard-v2\hardware\Cyberboard.kicad_sch
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 141:Symbol position: (232.41, 222.25)
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 168:Pin positions: [255.26999999999998, 219.71], [209.55, 227.33]
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 193:net 1 labels: [[Symbol('label'), 'GPIO16', [Symbol('at'), 266.7, 224.79, 180], [Symbol('effects'), [Symbol('font'), [Symbol('size'), 1.27, 1.27]], [Symbol('justify'), Symbol('right'), Symbol('bottom')]], [Symbol('uuid'), '1bbe6daf-f7c6-4c6b-a0e1-adcdda087328']], [Symbol('label'), 'GPIO16', [Symbol('at'), 118.11, 271.78, 180], [Symbol('effects'), [Symbol('font'), [Symbol('size'), 1.27, 1.27]], [Symbol('justify'), Symbol('right'), Symbol('bottom')]], [Symbol('uuid'), '3ebf8a12-5b0a-4d30-8121-2da3dbb75a85']]]
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 194:net 2 labels: [[Symbol('label'), 'GPIO18', [Symbol('at'), 118.11, 264.16, 180], [Symbol('effects'), [Symbol('font'), [Symbol('size'), 1.27, 1.27]], [Symbol('justify'), Symbol('right'), Symbol('bottom')]], [Symbol('uuid'), '2a434faf-483e-4562-b3d4-aa1909ce67e8']], [Symbol('label'), 'GPIO18', [Symbol('at'), 198.12, 217.17, 0], [Symbol('effects'), [Symbol('font'), [Symbol('size'), 1.27, 1.27]], [Symbol('justify'), Symbol('left'), Symbol('bottom')]], [Symbol('uuid'), 'e3375504-14e3-4cca-8b50-ccc5661edcb9']]]
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 229:closest label 1: [Symbol('label'), 'GPIO16', [Symbol('at'), 266.7, 224.79, 180], [Symbol('effects'), [Symbol('font'), [Symbol('size'), 1.27, 1.27]], [Symbol('justify'), Symbol('right'), Symbol('bottom')]], [Symbol('uuid'), '1bbe6daf-f7c6-4c6b-a0e1-adcdda087328']]
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 230:closest label 2: [Symbol('label'), 'GPIO18', [Symbol('at'), 198.12, 217.17, 0], [Symbol('effects'), [Symbol('font'), [Symbol('size'), 1.27, 1.27]], [Symbol('justify'), Symbol('left'), Symbol('bottom')]], [Symbol('uuid'), 'e3375504-14e3-4cca-8b50-ccc5661edcb9']]
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 241:Schematics written
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.swap_stubs 248:Pad nets swapped
+11-29 22:25:41 com_github_MitjaNemec_SwapStubs.action_swap_stubs 155:Plugin successfully executed
+NoneType: None
