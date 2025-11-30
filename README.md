@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://notaroomba.dev"><img src="https://raw.githubusercontent.com/NotARoomba/Cyberboard/main/assets/logo.png" alt="Cyberboard" width="200"></a>
+  <a href="https://notaroomba.dev"><img src="https://raw.githubusercontent.com/NotARoomba/cyberboard-v2/main/assets/logo.png" alt="Cyberboard V2" width="200"></a>
   <br>
   Cyberboard V2
   <br>
