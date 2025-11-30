@@ -2,7 +2,7 @@
   <br>
   <a href="https://notaroomba.dev"><img src="https://raw.githubusercontent.com/NotARoomba/Cyberboard/main/assets/logo.png" alt="Cyberboard" width="200"></a>
   <br>
-  Cyberboard
+  Cyberboard V2
   <br>
 </h1>
 
