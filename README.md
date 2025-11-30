@@ -49,7 +49,6 @@ Designed in KiCad with attention to RF design, power management, and sensor inte
 - Efficient antenna routing with impedance matching
 - Optimized sensor placement (IMU and Barometer) away from RF components
 - SPI interface for IMU (ICM-42688) and I2C interface for Barometer (BMP580)
-- Comprehensive I2C pull-up resistors for sensor reliability
 - Improved power delivery with optimized buck-boost converter
 
 ### Schematic
@@ -81,12 +80,6 @@ The 4-layer stackup (SIG/GND/PWR/SIG) provides optimal signal integrity and powe
 ### JLCPCB Order
 
 <img src="assets/jlcpcb.png" alt="PCB Back" width="800"/>
-
-### 3D Renders (Old Layout)
-
-<img src="assets/CyberboardBG.png" alt="Cyberboard Render 1" width="800"/>
-<img src="assets/CyberboardDark.png" alt="Cyberboard Render 2" width="800"/>
-<img src="assets/CyberboardYellow.png" alt="Cyberboard Render 1" width="800"/>
 
 ## Credits
 
